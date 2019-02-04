@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <bottom>
+        <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="30.0" BorderPane.alignment="CENTER">
+            <children>
+                <Label fx:id="playerCountLabel" text="Players online: 0">
+               <font>
+                  <Font size="24.0" />
+               </font></Label>
+                <Label fx:id="updaterLabel" text="Updater: not started" textAlignment="RIGHT">
+               <font>
+                  <Font size="24.0" />
+               </font></Label>
+            </children>
+        </HBox>
+   </bottom>
+   <center>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" spacing="15.0" BorderPane.alignment="CENTER">
+         <children>
+                <Button mnemonicParsing="false" onAction="#handleStartButton" text="Start">
+               <font>
+                  <Font size="16.0" />
+               </font></Button>
+                <Button mnemonicParsing="false" onAction="#handleUpdateButton" text="Update">
+               <font>
+                  <Font size="16.0" />
+               </font></Button>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>
