@@ -15,7 +15,7 @@
 
   ## Spielgeschehen vor dem Update
   
-  ![Spielgeschehen vor dem Update](s1.png)
+  ![Spielgeschehen vor dem Update](ReadersWriters\s1.png)
 
   ## Update wurde gequeued
 
