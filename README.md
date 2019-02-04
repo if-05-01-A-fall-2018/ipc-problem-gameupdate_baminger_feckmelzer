@@ -25,5 +25,7 @@
 
   ![Spielgeschehen nach dem Update](s3.PNG)
   
-  
+ 
+ 
+ 
  ## Wir bitten um Entschuldigung aufgrund der verspäteten Abgabe!
