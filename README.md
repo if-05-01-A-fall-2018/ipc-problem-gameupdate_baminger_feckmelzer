@@ -15,15 +15,15 @@
 
   ## Spielgeschehen vor dem Update
   
-  ![Spielgeschehen vor dem Update](ipc-problem-gameupdate_baminger_feckmelzer/ReadersWriters/s1.png)
+  ![Spielgeschehen vor dem Update](s1.png)
 
   ## Update wurde gequeued
 
-  ![Update wurde gequeued](ipc-problem-gameupdate_baminger_feckmelzer/ReadersWriters/s2.png)
+  ![Update wurde gequeued](s2.png)
 
   ## Spielgeschehen nach dem Update
 
-  ![Spielgeschehen nach dem Update](ipc-problem-gameupdate_baminger_feckmelzer/ReadersWriters/s3.png)
+  ![Spielgeschehen nach dem Update](s3.png)
   
   
  ## Wir bitten um Entschuldigung aufgrund der verspäteten Abgabe!
