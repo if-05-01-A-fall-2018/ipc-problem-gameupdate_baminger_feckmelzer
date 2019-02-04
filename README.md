@@ -28,4 +28,4 @@
  
  
  
- ## Wir bitten um Entschuldigung aufgrund der verspäteten Abgabe!
+ ## Wir entschuldigen uns nochmal wegen der verspäteten Abgabe!
