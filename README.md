@@ -19,11 +19,11 @@
 
   ## Update wurde gequeued
 
-  ![Update wurde gequeued](s2.png)
+  ![Update wurde gequeued](s2.PNG)
 
   ## Spielgeschehen nach dem Update
 
-  ![Spielgeschehen nach dem Update](s3.png)
+  ![Spielgeschehen nach dem Update](s3.PNG)
   
   
  ## Wir bitten um Entschuldigung aufgrund der verspäteten Abgabe!
